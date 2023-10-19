@@ -5,6 +5,6 @@ I believe this project is abstract and have a lot of potential to grow, not only
 GRADE: 28/34
 
 TO RUN THE PROJECT:
-Compile the file MAIN.java in the src folder in any Java IDE after you clone this project. From their feel free to discover different feature of the application.
+Compile the file MAIN.java in the src folder in any Java IDE after you clone this project. From there feel free to discover different feature of the application.
 
 Code Annotation is provide in every Java file.
